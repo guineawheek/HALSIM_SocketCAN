@@ -1,6 +1,0 @@
-JNI_OnLoad
-JNI_OnUnload
-Java_halsim_socketcan_HALSIM_1SocketCAN_enable
-Java_halsim_socketcan_HALSIM_1SocketCAN_clean
-HALSIM_SocketCAN_Enable
-HALSIM_SocketCAN_Clean
